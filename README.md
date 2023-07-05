@@ -37,10 +37,10 @@ snowflake-plus:
     data-center-id: 1
 ```
 
-## Contributing
+## 维护者
 
-PRs accepted.
+[@AnthonyZero](https://github.com/AnthonyZero)
 
-## License
+## 如何贡献
 
-MIT © Richard McRichface
+非常欢迎你的加入！[提一个 Issue](https://github.com/AnthonyZero/snowflake-plus/issues/new) 或者提交一个 Pull Request。
