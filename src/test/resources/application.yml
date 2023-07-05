@@ -1,0 +1,8 @@
+snowflake-plus:
+  cluster:
+    data-center-id: 1
+    machine-id: 2
+
+spring:
+  application:
+    name: snow-id-test

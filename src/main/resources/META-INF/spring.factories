@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.anthonyzero.snowflake.autoconfigure.ClusterAutoConfiguration,\
+  com.anthonyzero.snowflake.autoconfigure.ClusterAutoConfiguration$ManualRegistrar,\
+  com.anthonyzero.snowflake.autoconfigure.ClusterAutoConfiguration$RedisRegistrar,\
+  com.anthonyzero.snowflake.autoconfigure.IdFactoryAutoConfiguration
